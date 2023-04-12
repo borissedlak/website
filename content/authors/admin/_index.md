@@ -7,7 +7,7 @@ first_name: Boris
 last_name: Sedlak
 
 # Status emoji
-status:
+# status:
 #  icon: ☕️
 
 # Is this the primary user of the site?
@@ -22,13 +22,13 @@ organizations:
     url: https://dsg.tuwien.ac.at/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Distributed Systems (more specifically Edge Computing), Stream Transformations, and SLOs
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Edge Computing
+  - Stream Transformations
+  - Service Level Objectives
 
 # Education to show in About widget
 education:
@@ -84,5 +84,5 @@ email: ''
 highlight_name: true
 ---
 
-Boris Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Boris Sedlak is a Ph.D. student in the Distributed Systems Group at the Technical University of Vienna in Austria. He received his B.Sc. in Media Informatics at the University of Applied Sciences in St. Pölten and his M.Sc. in Software Engineering & Internet Computing at the TU Wien. He worked for four years as a software engineer before starting to work on Teadal, a European project on federated and trustworthy data lakes.
 {style="text-align: justify;"}
