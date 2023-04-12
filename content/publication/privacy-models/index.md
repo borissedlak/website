@@ -37,7 +37,7 @@ url_pdf: https://dsg.tuwien.ac.at/team/sd/papers/ICFEC_2022_I_Murturi_Specificat
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
-url_slides: ''
+url_slides: 'uploads/Paper_PrivacyModel.pptx.pdf'
 #url_source: ''
 #url_video: ''
 
@@ -64,5 +64,5 @@ projects: [Master Thesis]
 #{{% callout note %}}
 #Create your slides in Markdown - click the *Slides* button to check out the example.
 #{{% /callout %}}
-slides: example
+#slides: example
 ---
